@@ -1,7 +1,5 @@
 package Java08;
 
-import java.util.*;
-
 public class Class02 {
 	public static void main(String[] args) {
 		Cbbb obj1 = new Cbbb();

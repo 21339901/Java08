@@ -3,7 +3,7 @@ package Java08;
 public class Class07 {
 	public static void main(String[] args) {
 		
-		Ctest evenOrOdd = new Ctest();
+		CTest evenOrOdd = new CTest();
 			evenOrOdd.x = 3;
 			evenOrOdd.test();
 			evenOrOdd.x = 8;
@@ -12,7 +12,7 @@ public class Class07 {
 			evenOrOdd.test();
 			}
 }
-class Ctest{
+class CTest{
 	int x;
 	void test() {
 		if (x == 0) 
